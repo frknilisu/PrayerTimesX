@@ -66,14 +66,16 @@ public class MainActivity extends AppCompatActivity implements DialogInterface.O
                 timeUpdater.showTimes.stopTimer();
                 timeUpdater.showTimes = null;
             }*/
-
-            if (showTimes != null) {
-                Log.d("setup()", "showTime not null");
-                showTimes.stopTimer();
-                showTimes.updateUI();
-            } else {
+            if(showTimes == null){
                 Log.d("setup()", "showTime is null");
                 showTimes = new ShowTimes(this, MainActivity.this);
+                showTimes.updateUI();
+            } else if(showTimes.handler == null){
+                Log.d("setup()", "showTime not null, but timer is null");
+                showTimes.updateUI();
+            } else {
+                Log.d("setup()", "showTime timer not null");
+                showTimes.stopTimer();
                 showTimes.updateUI();
             }
 
