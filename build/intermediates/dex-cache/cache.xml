@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_7919d2a936a2be2ff789d4772f3badd2eff2e1d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_6694cc2d337049f38bdc834619c9e4383a79b054/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_873a7e7e5ca9a2c94154707399a0e2d96588e9eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.6.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02cc9f2e5899415add52bc716602b6b38e7eeb99">
+        <dex dex="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-2.6.5_15f2555f0d0f4d88c0ff9c77344aad223e66ad2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.14/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.fabric.sdk.android-fabric-1.3.14_5f29a1c48ef48d5358eb45e286f3453d86b3fb35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_83a69c663adb9286731cc1b86baf428a3705a93a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e055abce98dea738760eb38b4677e3dce2348f06">
+        <dex dex="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_891ec2e086d7e7d643eb84cad868112ee1bb38e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_30324510fd17fe14bdb3b25df50c9d6883e78108/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/frkn/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_00e014bf9cb864f6ad36d7e2579802dd1ddd3b32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_7d26e76b82b718839b29e0ebab30990f7f27a84a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.10/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed6b455e3dd7bbf1ff31f8df0b41e2f0d87f3ace">
+        <dex dex="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-answers-1.3.10_068e5bb1d9db917465f05b3295c235722bb99d67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_fa29111d16298c495bd1c2e36461a56227b8f3ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_09baf35986f9decf1bce8b48db51f913ebd81a7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_d700e72d78be3072c730ff9eeece0a00d57dc0b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_17be07c282fe49ea42bc3b4cfc44e17a170ea0e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_4bd64d2bad0b8281e7daa3f85384a06e08341080/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_59ce33151f1365c7b24f039d87dc1684c7f64532/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.2.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b42cf2134829f715edfa2adaf0ee246631322dba">
+        <dex dex="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-beta-1.2.2_ec7d29af91074ecd7679b515a1afbb8317020e0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/frkn/Desktop/PrayerTimes_Qible/app/libs/jsoup-1.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="28e5375920a4f6e73123e45ab6ad3b8bc93b0869">
+        <dex dex="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/transforms/dex/debug/folders/1000/2/jsoup-1.9.2_19e5c99df2d6102f5b50087cffc293c4e94c4237/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e25548bef2cc9cc1c3cfcdb913438f54aa4a894">
+        <dex dex="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8843824e4e717b0ca420484856b775157be6e152/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.14/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ff77725723167163d69439e3fd077bd0899babf">
+        <dex dex="/home/frkn/Desktop/PrayerTimes_Qible/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-core-2.3.14_a7156cded4cf3c09c83876e05aa2c3eef2caf2bd/classes.dex" />
+    </item>
+
+</items>
